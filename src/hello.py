@@ -1,0 +1,1 @@
+print("Setup successful - Day 1 tasks completed!")
